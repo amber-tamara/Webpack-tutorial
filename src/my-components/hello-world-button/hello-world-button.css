@@ -1,0 +1,12 @@
+.hello-world-button {
+  font-size: 40px;
+  color: purple;
+  padding: 10px 20px;
+  border: solid 2px pink;
+}
+
+.hello-world-paragraph {
+    font-size: 40px;
+    color: grey;
+    padding: 20px;
+}
