@@ -3,11 +3,11 @@ import './hello-world-button.css'
 class HelloWorldButton {
     render() {
         const button = document.createElement("button");
-        button.innerHTML = "poo";
+        button.innerHTML = "hello";
         button.classList.add('hello-world-button')
         button.onclick = function () {
             const p = document.createElement('p');
-            p.innerHTML = 'SEX';
+            p.innerHTML = 'world';
             p.classList.add('hello-world-paragraph')
             body.appendChild(p);
         }
